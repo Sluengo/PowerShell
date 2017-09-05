@@ -1,6 +1,5 @@
 ﻿#############      ACTIVE DIRECTORY PROVISIONING SCRIPT     #############
 #############          Written By: Steven Luengo            #############
-#############    Original Concept: Kerry-Ann Johnson        #############
 
 Function userOU {
    
